@@ -12,14 +12,22 @@ git clone https://github.com/maggiemhanna/deeplearning-training-course.git
 pip install virtualenv
 ```
 
-* Activate Virtual Environment: 
+* Create and Activate Virtual Environment: 
 
 ``` 
+virtualenv dl-venv 
 source dl-venv/bin/activate
+``` 
+
+* Once activated, install packages inside.
+
+``` 
+pip install ..
 ``` 
 
 * Add Virtual Environment to Jupyter Notebook: 
 
 ``` 
+pip install ipykernel
 python -m ipykernel install --user --name=dl-venv
 ``` 
