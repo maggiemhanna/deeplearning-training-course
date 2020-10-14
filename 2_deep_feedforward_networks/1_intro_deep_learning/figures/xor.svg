@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1159px" height="528px" viewBox="0 0 1159 528" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>Desktop HD Copy 5</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="1" y="2" width="1157" height="522" rx="10"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="1157" height="522" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD-Copy-5">
+            <text id="The-XOR-problem" font-family="Futura-Medium, Futura" font-size="25" font-weight="400" fill="#4A4A4A">
+                <tspan x="920" y="60">The XOR problem</tspan>
+            </text>
+            <use id="Rectangle-3" stroke="#000000" mask="url(#mask-2)" stroke-width="6" xlink:href="#path-1"></use>
+            <path d="M303,120 L303,399.5" id="Line" stroke="#000000" stroke-width="4" stroke-linecap="square"></path>
+            <path d="M445,260 L145,260" id="Line" stroke="#000000" stroke-width="4" stroke-linecap="square"></path>
+            <text id="0,1" font-family="Futura-Medium, Futura" font-size="25" font-weight="400" fill="#000000">
+                <tspan x="176" y="152">0,1</tspan>
+            </text>
+            <text id="0,0" font-family="Futura-Medium, Futura" font-size="25" font-weight="400" fill="#000000">
+                <tspan x="179" y="334">0,0</tspan>
+            </text>
+            <text id="1,1" font-family="Futura-Medium, Futura" font-size="25" font-weight="400" fill="#000000">
+                <tspan x="377" y="153">1,1</tspan>
+            </text>
+            <text id="1,0" font-family="Futura-Medium, Futura" font-size="25" font-weight="400" fill="#000000">
+                <tspan x="377" y="332">1,0</tspan>
+            </text>
+            <path d="M420,397 L144,148" id="Line" stroke="#9B9B9B" stroke-width="4" stroke-linecap="square"></path>
+            <circle id="Oval-4" fill="#01FF5C" cx="194.5" cy="171.5" r="7.5"></circle>
+            <circle id="Oval-4" fill="#01FF5C" cx="394.5" cy="169.5" r="7.5"></circle>
+            <circle id="Oval-4" fill="#01FF5C" cx="394.5" cy="350.5" r="7.5"></circle>
+            <circle id="Oval-4" fill="#FF0113" cx="196.5" cy="350.5" r="7.5"></circle>
+            <path d="M808,120 L808,399.5" id="Line" stroke="#000000" stroke-width="4" stroke-linecap="square"></path>
+            <path d="M950,260 L650,260" id="Line" stroke="#000000" stroke-width="4" stroke-linecap="square"></path>
+            <text id="0,1" font-family="Futura-Medium, Futura" font-size="25" font-weight="400" fill="#000000">
+                <tspan x="681" y="152">0,1</tspan>
+            </text>
+            <text id="0,0" font-family="Futura-Medium, Futura" font-size="25" font-weight="400" fill="#000000">
+                <tspan x="684" y="334">0,0</tspan>
+            </text>
+            <text id="1,1" font-family="Futura-Medium, Futura" font-size="25" font-weight="400" fill="#000000">
+                <tspan x="882" y="153">1,1</tspan>
+            </text>
+            <text id="1,0" font-family="Futura-Medium, Futura" font-size="25" font-weight="400" fill="#000000">
+                <tspan x="882" y="332">1,0</tspan>
+            </text>
+            <circle id="Oval-4" fill="#01FF5C" cx="699.5" cy="171.5" r="7.5"></circle>
+            <circle id="Oval-4" fill="#FF0113" cx="899.5" cy="169.5" r="7.5"></circle>
+            <circle id="Oval-4" fill="#01FF5C" cx="899.5" cy="350.5" r="7.5"></circle>
+            <circle id="Oval-4" fill="#FF0113" cx="701.5" cy="350.5" r="7.5"></circle>
+            <text id="OR" font-family="Futura-Medium, Futura" font-size="40" font-weight="400" fill="#000000">
+                <tspan x="270" y="480">OR</tspan>
+            </text>
+            <text id="XOR" font-family="Futura-Medium, Futura" font-size="40" font-weight="400" fill="#000000">
+                <tspan x="762" y="480">XOR</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
