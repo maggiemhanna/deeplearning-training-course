@@ -1,4 +1,4 @@
-# Machine Learning Training
+# Deep Learning Training
 
 The objective of this training is to allow you to grasp the essential concepts that help you get started with Deep Learning.
 This training covers the vast majority of ideas and concepts that you should encounter when solving a deep learning problem.
@@ -29,8 +29,8 @@ Here is the outline of the training:
             * Model Representation: Sigmoid activation function
             * Cost function: Cross Entropy
             * Multi-output logistic regression
-                ® One-vs-All
-                ® SoftMax Logistic Regression
+                * One-vs-All
+                * SoftMax Logistic Regression
     * Model Optimization
         * OLS
         * Gradient Descent
